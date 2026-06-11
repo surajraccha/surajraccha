@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" />
+<img src="./assets/banner1.png" width="100%" />
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Suraj Raccha
 
