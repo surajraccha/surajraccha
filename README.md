@@ -4,9 +4,9 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Suraj Raccha
 
-### 🚀 Senior Java Full Stack Engineer | Spring Boot | Microservices | React
+### 🚀 Senior Java Full Stack Engineer | Spring Boot | Microservices | Angular
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Java+Developer;Spring+Boot+Specialist;Microservices+Engineer;React+Developer;Performance+Optimization+Expert;Cloud+Native+Learner;Always+Building+Something+Awesome" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=Java+Developer;Spring+Boot+Specialist;Microservices+Engineer;Angular+Developer;Performance+Optimization+Expert;Cloud+Native+Learner;Always+Building+Something+Awesome" />
 
 <p align="center">
 <a href="https://github.com/surajraccha">
@@ -31,11 +31,12 @@ public class SurajRaccha {
         "Java",
         "Spring Boot",
         "Microservices",
-        "React",
+        "Angular",
         "REST APIs",
         "MySQL",
         "MongoDB",
-        "System Design"
+        "System Design",
+        "DSA"
     };
 
     String passion =
@@ -49,7 +50,7 @@ public class SurajRaccha {
 
 # 🔥 What Makes Me Different
 
-✅ 4+ Years of Professional Experience
+✅ 6+ Years of Professional Experience
 
 ✅ Enterprise Application Development
 
@@ -142,16 +143,6 @@ Goal:
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajraccha&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=surajraccha&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
